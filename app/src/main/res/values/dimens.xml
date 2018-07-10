@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="fabwidth">95dp</dimen>
+    <dimen name="fabheight">60dp</dimen>
+    <dimen name="fabmargin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="logo_w_h">100dp</dimen>
+    <dimen name="ad_margintop">530dp</dimen>
+    <dimen name="ad_marginbottom">16dp</dimen>
+    <dimen name="ad_marginleft">16dp</dimen>
+    <dimen name="ad_marginright">16dp</dimen>
+    <dimen name="cardpadding">30dp</dimen>
+    <dimen name="cardRadius">5dp</dimen>
+    <dimen name="cardelevation">5dp</dimen>
+    <dimen name="textsize20sp">20sp</dimen>
+    <dimen name="dimen10dp">10dp</dimen>
+    <dimen name="dimen20dip">20dip</dimen>
+    <dimen name="textsize15sp">15sp</dimen>
+    <dimen name="dimen30dp">30dp</dimen>
+    <dimen name="dimen20dp">20dp</dimen>
+    <dimen name="dimen8dp">8dp</dimen>
+    <dimen name="dimentext14sp">14sp</dimen>
+    <dimen name="dimen16dp">16dp</dimen>
+    <dimen name="dimentext15sp">15sp</dimen>
+    <dimen name="deimentext14sp">14sp</dimen>
+    <dimen name="dimen200dp">200dp</dimen>
+    <dimen name="dimen90dp">90dp</dimen>
+    <dimen name="dimen60dp">60dp</dimen>
+
+</resources>
